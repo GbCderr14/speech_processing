@@ -1,0 +1,7 @@
+IPython
+scipy
+numpy
+matplotlib
+librosa
+wave
+datetime
